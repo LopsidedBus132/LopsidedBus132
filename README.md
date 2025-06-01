@@ -3,13 +3,13 @@
 ## Languages, Frameworks, and Tools I've Used
 
 ### 🧠 Languages
-[![My Skills](https://skillicons.dev/icons?i=py,c,java,js,ts,css,html,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,java,js,ts,css,html,md,cs)](https://skillicons.dev)
 
 ### 🧩 Frameworks
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,express,vue)](https://skillicons.dev)
 
 ### 🛠️ Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,mysql,postgres,vercel,mongodb,postman,netlify,replit,latex,figma,blender,unity,nodejs,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,mysql,postgres,vercel,mongodb,postman,netlify,replit,latex,figma,blender,unity,nodejs,npm,git)](https://skillicons.dev)
 
 <!--
 **LopsidedBus132/LopsidedBus132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
